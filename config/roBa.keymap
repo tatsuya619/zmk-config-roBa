@@ -53,7 +53,7 @@
 
         JP {
             bindings = <&kp LANGUAGE_5>;
-            key-positions = <33 21>;
+            key-positions = <37 38>;
         };
     };
 
