@@ -54,6 +54,7 @@
         JP {
             bindings = <&kp LANGUAGE_5>;
             key-positions = <37 38>;
+            layers = <0>;
         };
     };
 
